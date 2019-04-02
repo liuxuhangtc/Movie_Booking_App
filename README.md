@@ -9,3 +9,7 @@ This project is about an iOS application for movie collections where users can r
 
 This project uses "Swift" and "Core Data"
 Also with "Google Map Api" and "MODB API".
+
+
+
+------ Creat and update by Xuhang Liu -------
